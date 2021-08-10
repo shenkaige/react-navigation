@@ -1,7 +1,7 @@
 {
   "name": "@react-navigation/routers",
   "description": "Routers to help build custom navigators",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "keywords": [
     "react",
     "react-native",
@@ -56,5 +56,6 @@
         }
       ]
     ]
-  }
+  },
+  "gitHead": "59a8e92436a35c52a235e8f3ad0e04eb65fb85e6"
 }
